@@ -6,7 +6,7 @@
 ## Assignment 3: Descriptive Stats (2026-07-26)
 - Descriptive statistics such as mean, mode, standard deviation, and others calculated.
 - Basic data visualizations for each variable created
-- Most surprising pattern: Air conditioning, not bedrooms or stories, emerges as one of the strongest price signals
+- Most surprising pattern: Air conditioning, not bedrooms or stories, is one of the strongest price signals
 ## Assignment 4: Probability (2026-07-26)
 - Normal vs. empirical, and why: empirical
 - Our team chose due to the heavy right skew of the data in our primary areas of interest. Assuming a normal distribution would not have allowed us to properly understand probability.
