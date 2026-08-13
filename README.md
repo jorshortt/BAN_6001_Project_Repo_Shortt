@@ -8,21 +8,26 @@ A team project that analyzes housing prices across six assignments ranging from 
 
 ## Assignment Summaries
 **Assignment 2** *Dataset Selection*
+
 Selected and loaded the Housing Prices dataset; identified price as the primary variable of interest
 
 **Assignment 3** *Descriptive Statistics*
+
 Calculated mean, mode, standard deviation, and other summary statistics for for each variable, and built basic visualizations. Found that air conditioning - not bed rooms or stories - was one of the strongest visible price signals
 
 **Assignment 4** *Probability*
+
 Explored normal vs empirical probability distributions for key variables. Due to heavy right skew in data, used empirical distributions to answer probability questions
 
 **Assignment 5** *Hypothesis Testing*
+
 Ran two one-sample t-tests at α = 0.05
 - H0: μ ≤ 5,000 sq ft
 - H0: μ ≥ $4.5M
 Also computed a 95% confidence interval for mean home price
 
 **Assignment 6** *Regression*
+
 Built a multiple linear regression model to predict price:
 - Model 1 - All 12 predictors
 - Model 2 - Removed statistically insignificant predictors
