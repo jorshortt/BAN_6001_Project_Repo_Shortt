@@ -10,8 +10,8 @@
 ## Assignment 4: Probability (2026-07-26)
 - Normal vs. empirical, and why: empirical
 - Our team chose due to the heavy right skew of the data in our primary areas of interest. Assuming a normal distribution would not have allowed us to properly understand probability.
-## Assignment 5: Inference (202X-07-ZZ)
+## Assignment 5: Inference (2026-08-07)
 - What we tested, alpha, conclusion: ____
-## Assignment 6: Regression (202X-07-ZZ)
+## Assignment 6: Regression (2026-08-12)
 - First predictor removed and why: ____
 - Multicollinearity handling: ____
