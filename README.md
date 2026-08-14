@@ -1,4 +1,6 @@
 # Housing Prices: A Statistical Analysis in Excel
+**Jordan Shortt**
+
 A team project that analyzes housing prices across six assignments ranging from dataset selection, descriptive statistics, probability, hypothesis testing, and multiple linear regression
 
 ## Dataset
